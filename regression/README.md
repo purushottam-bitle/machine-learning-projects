@@ -20,6 +20,11 @@ Working through this case study approach showed you how the steps for specific m
 tasks can be pulled together into a complete project. Working through this case study is good
 practice at applied machine learning using Python and scikit-learn.
 
+#### Required python version for graphlab housing project
+```sh
+$ python --version
+Python 3.7
+```
 
 #### Required python version
 ```sh

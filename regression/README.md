@@ -1,5 +1,12 @@
 # Regression Predictive Model
 
+## Problem Definition
+
+For this tutorial we will investigate the Boston House Price dataset. Each record in the database
+describes a Boston suburb or town. The data was drawn from the Boston Standard Metropolitan
+Statistical Area (SMSA) in 1970. The attributes are defined as follows (taken from the UCI
+Machine Learning Repository):
+
 ### Summary
 
 In this tutorial we worked through a regression predictive modeling machine learning problem

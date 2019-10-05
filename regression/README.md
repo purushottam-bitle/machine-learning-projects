@@ -23,7 +23,7 @@ practice at applied machine learning using Python and scikit-learn.
 #### Required python version for graphlab housing project
 ```sh
 $ python --version
-Python 3.7
+Python 2.7
 ```
 
 #### Required python version

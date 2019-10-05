@@ -12,7 +12,7 @@ increasing order of aspect angle, but they do not encode the angle directly.
 
 ### Summary
 
-In this tutorial we worked through a regression predictive modeling machine learning problem
+In this tutorial we worked through a Logistic predictive modeling machine learning problem
 from end-to-end using Python. Specifically, the steps covered were:
 
 * Problem Definition (Sonar return data).
